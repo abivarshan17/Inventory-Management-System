@@ -1,0 +1,21 @@
+.flex-container{
+    align-items: flex-start;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    width: 100%;
+    background-color: #DEE2E1;
+    text-decoration: none;
+    padding-top: 20px;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    border-radius: 20px;
+}
+#seemrk{
+    width: 300px;
+}
+.btn{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}

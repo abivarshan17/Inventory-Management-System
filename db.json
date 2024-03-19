@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "625a",
+      "username": "admin",
+      "email": "1@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5df4",
+      "username": "abi",
+      "email": "abi@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "student": [
+    {
+      "id": "74d0",
+      "item": "Rice",
+      "stock": "220",
+      "img": "https://th.bing.com/th/id/OIP.F7wD-xfUaxvqU_8_VoJvoAHaHa?rs=1&pid=ImgDetMain",
+      "price": "400"
+    },
+    {
+      "id": "9915",
+      "item": "Wheat",
+      "stock": "40",
+      "img": "https://img1.exportersindia.com/product_images/bc-full/dir_71/2122391/wheat-bags-1497780.jpg",
+      "price": "400"
+    },
+    {
+      "id": "1dce",
+      "item": "Oil",
+      "stock": "50L",
+      "img": "https://th.bing.com/th/id/R.28523c009b098963e5ab691addfa1bae?rik=VYtfStUGyhS1KQ&riu=http%3a%2f%2fimgusr.tradekey.com%2fp-138363-20060310082852%2fcanola-cooking-oil.jpg&ehk=zvFYiPUgpys8%2fVcFpV1I9fdgurIA3NPw%2fyKbG2wxYc4%3d&risl=&pid=ImgRaw&r=0",
+      "price": "40"
+    }
+  ]
+}
